@@ -14,6 +14,12 @@ https://azure.microsoft.com/ko-kr/products/kinect-dk
 <b> 환경: </b><br>
 Ubuntu 20.04
 
+CUDA 10.0
+
+cudnn 7.5.0
+
+tensorflow-gpu 1.13.1
+
 ## 사용방법
 
 
