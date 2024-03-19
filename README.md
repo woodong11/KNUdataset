@@ -11,6 +11,9 @@ https://www.mdstech.co.kr/Boson <br>
 RGBD camera: Azure Kinect DK 
 https://azure.microsoft.com/ko-kr/products/kinect-dk
 
+<b> 환경: </b><br>
+Ubuntu 20.04
+
 ## 사용방법
 
 
