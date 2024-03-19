@@ -2,8 +2,14 @@
 <b>열화상카메라 데이터셋 제작 후, <br>
 DenseDepth에 열화상 카메라 사진을 input으로 넣어 야간 깊이추정 정확도를 높인 논문입니다.</b>
 
-사용기술:
+<b> 사용기술: </b><br>
 ROS, tensorflow 
+
+<b> 사용 카메라: </b><br>
+Thermal camera: FLIR Boson camera 
+https://www.mdstech.co.kr/Boson <br>
+RGBD camera: Azure Kinect DK 
+https://azure.microsoft.com/ko-kr/products/kinect-dk
 
 ## 사용방법
 
